@@ -97,7 +97,7 @@ Rest(If there is no data) will be displayed in orange color markers.
 - CO2 Emissions (kt) | World Bank Open Data from [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-qf3r4b6jpivte?sr=0-1&ref_=beagle&applicationId=AWSMPContessa#dataSets)
 - Green house gases (kt) | historical emissions from [Climate Watch](https://www.climatewatchdata.org/)
 
-### AWS Cloud Service for Machine Learning (Amazon SageMaker Studio - Jupyter Motebook Instances) : 
+### AWS Cloud Service for Machine Learning (Amazon SageMaker Studio - Jupyter Notebook Instances) : 
 
 Amazon SageMaker is a fully managed machine learning service. With SageMaker, the developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment. It provides an integrated Jupyter authoring notebook instance for easy access to your data sources for exploration and analysis. It also provides common machine learning algorithms that are optimized to run efficiently against extremely large data in a distributed environment. 
 
