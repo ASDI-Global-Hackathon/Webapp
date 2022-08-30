@@ -94,7 +94,7 @@ Rest(If there is no data) will be displayed in orange color markers.
 
 ### Datasets 
 
-- CO2 Emissions (kt) | World Bank Open Data from AWS Marketplace
+- CO2 Emissions (kt) | World Bank Open Data from [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-qf3r4b6jpivte?sr=0-1&ref_=beagle&applicationId=AWSMPContessa#dataSets)
 - Green house gases (kt) | historical emissions from [Climate Watch](https://www.climatewatchdata.org/)
 
 ### AWS Cloud Service for Machine Learning (Amazon SageMaker Studio - Jupyter Motebook Instances) : 
